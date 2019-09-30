@@ -1,2 +1,7 @@
 hello  there
-hello 
+
+hello here
+
+ cloned one is changed
+ changed on global
+
