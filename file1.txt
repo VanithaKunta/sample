@@ -1,2 +1,4 @@
 hello  there
 22222
+ cloned one is changed
+ changed on global
