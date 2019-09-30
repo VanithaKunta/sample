@@ -1,3 +1,7 @@
 hello  there
+
+xdgfdgd
+
  cloned one is changed
  changed on global
+
