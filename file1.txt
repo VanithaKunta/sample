@@ -1,3 +1,4 @@
 hello  there
 this file is cloned
-
+cloned one is changed 
+changed on global
